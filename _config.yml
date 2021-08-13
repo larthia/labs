@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-page.title: Larthia Labs
+title: Larthia Labs
 logo: /larthia.jpg
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
